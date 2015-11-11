@@ -1,13 +1,14 @@
 # sales_taxes_exercise
 Solution to following problem implemented in Python 2.7.6 
 (first program ever written in Python so any PRs welcomed)
-Problem: Sales Taxes
+
+## Problem: Sales Taxes
  
 Basic sales tax is applicable at a rate of 10% on all goods, except books, food, and medical products that are exempt. Import duty is an additional sales tax applicable on all imported goods at a rate of 5%, with no exemptions.
  
 When I purchase items I receive a receipt which lists the name of all the items and their price (including tax), finishing with the total cost of the items, and the total amounts of sales taxes paid.  The rounding rules for sales tax are that for a tax rate of n%, a shelf price of p contains (np/100 rounded up to the nearest 0.05) amount of sales tax.
  
-Write an application that prints out the receipt details for these shopping baskets...
+### Write an application that prints out the receipt details for these shopping baskets...
  
 Input:
  
@@ -28,7 +29,7 @@ Input 3:
  
 Output:
  
-Output 1:
+## Output 1:
 1 book : 12.49
 1 music CD: 16.49
 1 chocolate bar: 0.85
@@ -48,4 +49,3 @@ Output 3:
 1 imported box of chocolates: 11.85
 Sales Taxes: 6.70
 Total: 74.68
-==========

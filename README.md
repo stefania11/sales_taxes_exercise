@@ -29,7 +29,7 @@ Input 3:
  
 Output:
  
-## Output 1:
+Output 1:
 1 book : 12.49
 1 music CD: 16.49
 1 chocolate bar: 0.85
